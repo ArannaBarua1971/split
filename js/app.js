@@ -9,7 +9,7 @@ document.spliter.addEventListener('submit',function(e){
         $('#output').append((i+1)+'. '+output[i] +'<br>')
     }
     $('#refresh').on('click',function(){
-        location.replace('https://arannabarua1971.github.io/spliting-generator/')
+        location.replace('https://arannabarua1971.github.io/split/')
     })
 
 })
